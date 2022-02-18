@@ -14,8 +14,11 @@ No prior docker experience to speak of, herewith my first *attempt* at creating 
 
 
 ### Assumptions and Interpretations
-
+That I will be ready for Ansible, Docker, Container orchestration with Kubernetes challenge when the time comes, even in the doing I have learn so much, there is a silver lining.
 
 ### TODO 
 - Persistence
 - Presentation Layer, could be REACT.js
+- Add configure.sh to /docker-entrypoint-initdb.d
+
+By Michael Forssman
